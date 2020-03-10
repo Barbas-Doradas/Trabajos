@@ -1,1 +1,8 @@
 [0](https://barbas-doradas.github.io/0/)
+[2](https://barbas-doradas.github.io/2/)
+[3](https://barbas-doradas.github.io/3/)
+[4](https://barbas-doradas.github.io/4/)
+[5](https://barbas-doradas.github.io/5/)
+[6](https://barbas-doradas.github.io/6/)
+[7](https://barbas-doradas.github.io/7/)
+[8](https://barbas-doradas.github.io/8/.)
